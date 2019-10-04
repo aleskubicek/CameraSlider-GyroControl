@@ -8,5 +8,8 @@ Application (iOS) to control the camera slider. Stepper motor is controlled by t
 - Control the camera (manul shoot button)
 - Bluetooth 4.0 communication with Arduino controller
 
+&nbsp;
 
-<img src="_MarkdownImages/GYRO_screen1.png" width="300" >
+<p align="center">
+  <img src="_MarkdownImages/GYRO_screen1.png" width="300" >
+</p>
